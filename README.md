@@ -3,6 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/channyein1337/403-bypass)](https://github.com/channyein1337/403-bypass/issues)
 [![GitHub forks](https://img.shields.io/github/forks/channyein1337/403-bypass)](https://github.com/channyein1337/403-bypass/network)
 [![GitHub stars](https://img.shields.io/github/stars/channyein1337/403-bypass)](https://github.com/channyein1337/403-bypass/stargazers)
+[![GitHub license](https://img.shields.io/github/license/channyein1337/403-bypass)](https://github.com/channyein1337/403-bypass)
 
 ## Introduction
 
