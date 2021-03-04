@@ -7,3 +7,27 @@
 ## Introduction
 
 This is the tool that I use while I was hunting for bypassing 403.
+
+## Usage 
+
+To display help message use the -h flag:
+
+$ python3 403-bypass.py -h
+```
+___ ___ ___    _____
+| | |   |_  |  | __  |_ _ ___ ___ ___ ___ ___ ___
+|_  | | |_  |  | __ -| | | . | .'|_ -|_ -| -_|  _|
+  |_|___|___|  |_____|_  |  _|__,|___|___|___|_|
+                     |___|_|
+
+                         @channyeinwai(1.0)
+
+usage: 403-bypass.py [-h] -u URL -p PATH
+
+403 Bypasser : python 403-bypass.py -u https://www.example.com -p admin
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -u URL, --url URL     Provide url
+  -p PATH, --path PATH  Provide the path
+```
