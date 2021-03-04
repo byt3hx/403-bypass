@@ -39,3 +39,13 @@ $ python3 403-bypass.py -u https://www.google.com -p admin
 ![](https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/run.png)
 
 ## Installation
+
+- git clone https://github.com/channyein1337/403-bypass.git
+- cd 403-bypass
+- pip3 install -r requirements.txt
+
+## Features
+- Bypass using HTTP Verbs(GET , HEAD , POST , PUT , DELETE , PATCH)
+- Bypass using payloads
+- Bypass using headers
+- Allow Redirects
