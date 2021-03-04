@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is the tool that I use while I was hunting for bypassing 403.
+This is the tool that I wrote when I was working for pentest. 
 
 ## Usage 
 
