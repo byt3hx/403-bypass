@@ -1,7 +1,6 @@
 import requests
 import sys
 import warnings
-from colorama import *
 import argparse
 
 
