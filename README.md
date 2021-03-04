@@ -14,8 +14,6 @@ To display help message use the -h flag:
 
 $ python3 403-bypass.py -h
 
-![](https://raw.githubusercontent.com/channyein1337/403-bypass/main/img/usage.png)
-
 ```
 ___ ___ ___    _____
 | | |   |_  |  | __  |_ _ ___ ___ ___ ___ ___ ___
