@@ -10,7 +10,7 @@ This is the tool that I use while I was hunting for bypassing 403.
 
 ## Usage 
 
-1[](https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/usage.png)
+![](https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/usage.png)
 
 To display help message use the -h flag:
 
@@ -36,6 +36,6 @@ optional arguments:
 ```
 ## How To Run
 $ python3 403-bypass.py -u https://www.google.com -p admin
-1[](https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/run.png)
+![](https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/run.png)
 
 ## Installation
