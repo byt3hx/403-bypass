@@ -1,4 +1,2 @@
 requests
-sys
-warnings
 argparse
